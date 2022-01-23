@@ -1,3 +1,4 @@
+'''Задание 1'''
 def convert_time(duration: int) -> str:
     days = duration // 86400
     hours = duration % 86400 // 3600
